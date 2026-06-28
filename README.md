@@ -8,4 +8,4 @@ Whether it's a wedding, corporate event, gala, fundraiser, birthday, graduation,
 
 Our mission is to remove the stress from planning life's most meaningful celebrations through thoughtful design, intelligent automation, and memorable experiences.
 
-Built with ❤️ for every celebration.
+Built with ❤️ to help people celebrate life's most meaningful moments.
