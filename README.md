@@ -2,15 +2,17 @@
 
 ### Plan. Celebrate. Remember.
 
-First production-ready Next.js version of Momente’ for Vercel deployment.
+Production v1.1 includes simplified capacity model and the Momente’ Blueprint.
+
+## Data model
+Guest import does not include capacity. Capacity is stored only in `data/tables.json`.
+
+## Templates
+- `templates/guest_import_template.csv`
+- `templates/table_setup_template.csv`
 
 ## Routes
-
-- `/` — Momente’ homepage
-- `/raja-anjali` — Raja & Anjali wedding workspace
-- `/raja-anjali/find-table` — guest-facing QR lookup page
-- `/raja-anjali/dashboard` — organizer dashboard
-
-## QR target
-
-https://momente-app.com/raja-anjali/find-table
+- `/`
+- `/raja-anjali`
+- `/raja-anjali/find-table`
+- `/raja-anjali/dashboard`

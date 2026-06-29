@@ -1,13 +1,7 @@
-MOMENTE’ PRODUCTION V1 DEPLOYMENT STEPS
+MOMENTE’ PRODUCTION V1.1 DEPLOYMENT STEPS
 
-1. Download and unzip this package.
-2. Upload all files to your GitHub repository.
-3. In Vercel, choose Add New Project.
-4. Import your GitHub repository.
-5. Framework should auto-detect as Next.js.
-6. Click Deploy.
-7. After deployment works on the Vercel preview URL, go to Project Settings > Domains.
-8. Add momente-app.com.
-9. In GoDaddy DNS, add the records Vercel gives you.
-10. Once verified, open:
-   https://momente-app.com/raja-anjali/find-table
+1. Unzip this package.
+2. Copy all files into your cloned Momente GitHub repository folder.
+3. In GitHub Desktop, commit: Capacity simplified and blueprint added
+4. Push origin.
+5. Vercel will deploy automatically if connected.
