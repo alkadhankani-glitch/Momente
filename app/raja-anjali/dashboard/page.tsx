@@ -1,4 +1,42 @@
 import guests from '../../../data/guests.json'
 import tables from '../../../data/tables.json'
 import Link from 'next/link'
-export default function Dashboard(){const grouped:Record<string,any[]>={};(guests as any[]).forEach(g=>{const table=g.table||'TBD';grouped[table]=grouped[table]||[];grouped[table].push(g)});return <main className="shell"><h1 className="brand">Momente’</h1><div className="tagline">Organizer Dashboard · Wedding Operations Edition</div><section className="hero"><div className="kicker">Operations MVP</div><h1>Reception Check-In Readiness</h1><p>Focus: import guests, meal preferences, table assignments, and fast lookup.</p><div style={{marginTop:24}}><Link className="button" href="/raja-anjali/import">Open Import Wizard</Link><Link className="button secondary" href="/raja-anjali/find-table">Test Guest Lookup</Link></div></section><section className="grid">{(tables as any[]).map(t=>{const list=grouped[t.number]||[];return <div className="card col4" key={t.number}><h3>Table {t.number}</h3><div className="big">{list.length}</div><p className="sub">{t.side} · {t.event}</p><ul>{list.slice(0,8).map(g=><li key={g.id}>{g.name} {g.dietaryNotes?<span className="badge">{g.dietaryNotes}</span>:null}</li>)}{list.length>8&&<li>+ {list.length-8} more</li>}</ul></div>})}</section></main>}
+
+export default function Dashboard() {
+  const grouped: Record<string, any[]> = {}
+  ;(guests as any[]).forEach(g => {
+    const table = g.table || 'TBD'
+    grouped[table] = grouped[table] || []
+    grouped[table].push(g)
+  })
+
+  return (
+    <main className="shell">
+      <h1 className="brand">Momente’</h1>
+      <div className="tagline">Organizer Dashboard · Wedding Operations Edition</div>
+      <section className="hero">
+        <div className="kicker">Operations MVP</div>
+        <h1>Reception Check-In Readiness</h1>
+        <p>Focus: import guests, meal preferences, table assignments, and fast lookup.</p>
+        <div style={{marginTop:24}}>
+          <Link className="button" href="/raja-anjali/import">Open Import Wizard</Link>
+          <Link className="button secondary" href="/raja-anjali/find-table">Test Guest Lookup</Link>
+        </div>
+      </section>
+      <section className="grid">
+        {(tables as any[]).map(t => {
+          const list = grouped[t.number] || []
+          return <div className="card col4" key={t.number}>
+            <h3>Table {t.number}</h3>
+            <div className="big">{list.length}</div>
+            <p className="sub">{t.side} · {t.event}</p>
+            <ul>
+              {list.slice(0,8).map(g => <li key={g.id}>{g.name} {g.dietaryNotes ? <span className="badge">{g.dietaryNotes}</span> : null}</li>)}
+              {list.length > 8 && <li>+ {list.length - 8} more</li>}
+            </ul>
+          </div>
+        })}
+      </section>
+    </main>
+  )
+}

@@ -2,10 +2,10 @@
 
 ### Plan. Celebrate. Remember.
 
-Production v1.2 starts the Wedding Operations Edition.
+Production v1.2 FIXED.
 
-## New
-- `/raja-anjali/import`
-- Guest import template
-- Table assignment template
-- Master guest preview
+Important route:
+`/raja-anjali/import`
+
+This package explicitly includes:
+`app/raja-anjali/import/page.tsx`
