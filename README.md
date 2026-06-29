@@ -1,11 +1,16 @@
-# Momente'
+# Momente’
 
 ### Plan. Celebrate. Remember.
 
-Momente' is an AI-powered Celebration Intelligence Platform designed to simplify event planning while creating extraordinary guest experiences.
+First production-ready Next.js version of Momente’ for Vercel deployment.
 
-Whether it's a wedding, corporate event, gala, fundraiser, birthday, graduation, or family celebration, Momente' brings together guest management, seating, invitations, vendors, budgets, timelines, hotels, insights, and AI-powered recommendations into one elegant platform.
+## Routes
 
-Our mission is to remove the stress from planning life's most meaningful celebrations through thoughtful design, intelligent automation, and memorable experiences.
+- `/` — Momente’ homepage
+- `/raja-anjali` — Raja & Anjali wedding workspace
+- `/raja-anjali/find-table` — guest-facing QR lookup page
+- `/raja-anjali/dashboard` — organizer dashboard
 
-Built with ❤️ to help people celebrate life's most meaningful moments.
+## QR target
+
+https://momente-app.com/raja-anjali/find-table
