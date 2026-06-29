@@ -1,12 +1,5 @@
 # Momente’
 
-### Plan. Celebrate. Remember.
+Production v1.3 — Clean Import Foundation.
 
-Production v1.2 FIXED.
-
-Important route:
-`/raja-anjali/import`
-
-This package explicitly includes:
-`app/raja-anjali/import/page.tsx`
- 
+Old sample data cleared. Same template for Bride and Groom.

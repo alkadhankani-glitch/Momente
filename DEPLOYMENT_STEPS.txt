@@ -1,1 +1,1 @@
-Copy files into Momente repo, commit: Add Sprint 2 import wizard, push origin, test /raja-anjali/import
+Copy inner files into repo. Commit: Clean import foundation for bride and groom. Push.
