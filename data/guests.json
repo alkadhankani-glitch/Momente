@@ -2,1394 +2,2389 @@
   {
     "id": "g1",
     "name": "Abhishek Bhatia",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "1"
+    "table": "1",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g2",
     "name": "Ditya Bhatia",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "1"
+    "table": "1",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g3",
     "name": "Geeta Bhatia",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "1"
+    "table": "1",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g4",
     "name": "Rijul Bhatia",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "1"
+    "table": "1",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g5",
     "name": "Upasana Bhatia",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "1"
+    "table": "1",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g6",
     "name": "Maya Sachdeva",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "1"
+    "table": "1",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g7",
     "name": "Suresh Sachdeva",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "1"
+    "table": "1",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g8",
     "name": "Deepa  Massi Gehani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "1"
+    "table": "1",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g9",
     "name": "Alok Magan",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "2"
+    "table": "2",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g10",
     "name": "Anu Magan",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "2"
+    "table": "2",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g11",
     "name": "Bal Krishan Magon",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "2"
+    "table": "2",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g12",
     "name": "Vinod Magon",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "2"
+    "table": "2",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g13",
     "name": "Alka Dhankani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "2"
+    "table": "2",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g14",
     "name": "Arjun Dhankani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "2"
+    "table": "2",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g15",
     "name": "Raja Dhankani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "2"
+    "table": "2",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g16",
     "name": "Sushil Dhankani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "2"
+    "table": "2",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g17",
     "name": "Vishakha Gupta",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "2"
+    "table": "2",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g18",
     "name": "Ankit Magon",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "3"
+    "table": "3",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g19",
     "name": "Muskan Magan",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "3"
+    "table": "3",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g20",
     "name": "Neil - Baby",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "3"
+    "table": "3",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g21",
     "name": "Roy - Baby",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "3"
+    "table": "3",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g22",
     "name": "Nidhi Juneja",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "3"
+    "table": "3",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g23",
     "name": "Rajat Juneja",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "3"
+    "table": "3",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g24",
     "name": "Manish Katyal",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "3"
+    "table": "3",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g25",
     "name": "Vidhi Katyal",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "3"
+    "table": "3",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g26",
     "name": "Narinder Saukhla",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "4"
+    "table": "4",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g27",
     "name": "Neeta Saukhla",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "4"
+    "table": "4",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g28",
     "name": "Harinder Dhir",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "4"
+    "table": "4",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g29",
     "name": "Rekha Dhir",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "4"
+    "table": "4",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g30",
     "name": "Sandeep Uthra",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "4"
+    "table": "4",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g31",
     "name": "Sunita Uthra",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "4"
+    "table": "4",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g32",
     "name": "Yuv Magan",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "5"
+    "table": "5",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g33",
     "name": "Avi Juneja",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "5"
+    "table": "5",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g34",
     "name": "Yuv Juneja",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "5"
+    "table": "5",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g35",
     "name": "Arya Katyal",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "5"
+    "table": "5",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g36",
     "name": "Pari Gupta",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "5"
+    "table": "5",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g37",
     "name": "Veera Gupta",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "5"
+    "table": "5",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g38",
     "name": "Reya Magan",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "6"
+    "table": "6",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g39",
     "name": "Nikhil Saukhla",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "6"
+    "table": "6",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g40",
     "name": "Chetan Dhir",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "6"
+    "table": "6",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g41",
     "name": "Nikita Dhir",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "6"
+    "table": "6",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g42",
     "name": "Yatin Dhir",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "6"
+    "table": "6",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g43",
     "name": "Sidhant Uthra",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "6"
+    "table": "6",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g44",
     "name": "Sohni Uthra",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "6"
+    "table": "6",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g45",
     "name": "Babita Pandita",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "7"
+    "table": "7",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g46",
     "name": "Ravi Pandita",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "7"
+    "table": "7",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g47",
     "name": "Dolly Sood",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "7"
+    "table": "7",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g48",
     "name": "Manish Sood",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "7"
+    "table": "7",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g49",
     "name": "Jaya Mitttal",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "7"
+    "table": "7",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g50",
     "name": "Vivek Mittal",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "7"
+    "table": "7",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g51",
     "name": "Jay Mishra",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "7"
+    "table": "7",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g52",
     "name": "Namrata Mishra",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "7"
+    "table": "7",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g53",
     "name": "Aishwarya Mehta",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "8"
+    "table": "8",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g54",
     "name": "Karthik Sagar",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "8"
+    "table": "8",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g55",
     "name": "Arnav Mehta",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "8"
+    "table": "8",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g56",
     "name": "Ashu Mehta",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "8"
+    "table": "8",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g57",
     "name": "Guncha Mehta",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "8"
+    "table": "8",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g58",
     "name": "Uncle Mehta",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "8"
+    "table": "8",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g59",
     "name": "Sanjay Modi",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "8"
+    "table": "8",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g60",
     "name": "Yogita Modi",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "8"
+    "table": "8",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g61",
     "name": "Divita Pandita",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "9"
+    "table": "9",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g62",
     "name": "Prisha Pandita",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "9"
+    "table": "9",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g63",
     "name": "Shrey Sood",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "9"
+    "table": "9",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g64",
     "name": "Tejas Sood",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "9"
+    "table": "9",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g65",
     "name": "Manu Mittal",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "9"
+    "table": "9",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g66",
     "name": "Varun Mittal",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "9"
+    "table": "9",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g67",
     "name": "Arushi Mishra",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "9"
+    "table": "9",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g68",
     "name": "Anjali Mohan",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "10"
+    "table": "10",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g69",
     "name": "Bhupen Mistry",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "10"
+    "table": "10",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g70",
     "name": "Daksha Mistry",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "10"
+    "table": "10",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g71",
     "name": "Deepak Sahai",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "10"
+    "table": "10",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g72",
     "name": "Shalini Mathur",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "10"
+    "table": "10",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g73",
     "name": "Ajay Mital",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "10"
+    "table": "10",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g74",
     "name": "Kavita Mital",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "10"
+    "table": "10",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g75",
     "name": "Mona Gambhir",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "10"
+    "table": "10",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g76",
     "name": "Rakesh Gambhir",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "10"
+    "table": "10",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g77",
     "name": "Dinesh Jotsinghani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "11"
+    "table": "11",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g78",
     "name": "Mona Jotsinghani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "11"
+    "table": "11",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g79",
     "name": "Monika Somani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "11"
+    "table": "11",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g80",
     "name": "Subodh Somani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "11"
+    "table": "11",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g81",
     "name": "Nimisha Jain",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "11"
+    "table": "11",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g82",
     "name": "Satish Jain",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "11"
+    "table": "11",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g83",
     "name": "Meghraj Tayade",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "11"
+    "table": "11",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g84",
     "name": "Shagufta Tayade",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "11"
+    "table": "11",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g85",
     "name": "Rasheed Bhuiya",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "11"
+    "table": "11",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g86",
     "name": "Shohana Bhuiya",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "11"
+    "table": "11",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g87",
     "name": "Bhavin Desai",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "12"
+    "table": "12",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g88",
     "name": "Jose Varghese",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "12"
+    "table": "12",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g89",
     "name": "Neeraj Kumar",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "12"
+    "table": "12",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g90",
     "name": "Shalu Mahajan",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "12"
+    "table": "12",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g91",
     "name": "Pritesh Desai",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "12"
+    "table": "12",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g92",
     "name": "Shamla Desai",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "12"
+    "table": "12",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g93",
     "name": "Sneha Desai",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "12"
+    "table": "12",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g94",
     "name": "Snehal Desai",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "12"
+    "table": "12",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g95",
     "name": "Anjali Gupta",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "13"
+    "table": "13",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g96",
     "name": "Ravinder Gupta",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "13"
+    "table": "13",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g97",
     "name": "Mahesh Madhusudan",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "13"
+    "table": "13",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g98",
     "name": "Sushma Madhusudan",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "13"
+    "table": "13",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g99",
     "name": "Jp Kapoor",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "13"
+    "table": "13",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g100",
     "name": "Ritu Kapoor",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "13"
+    "table": "13",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g101",
     "name": "Rajat Jain",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "13"
+    "table": "13",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g102",
     "name": "Vandana Jain",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "13"
+    "table": "13",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g103",
     "name": "Aminta Colon",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "14"
+    "table": "14",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g104",
     "name": "Robert Colon",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "14"
+    "table": "14",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g105",
     "name": "Albert Lee",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "14"
+    "table": "14",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g106",
     "name": "Inna Litvik",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "14"
+    "table": "14",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g107",
     "name": "Jaymin Patel",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "14"
+    "table": "14",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g108",
     "name": "Nalini Patel",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "14"
+    "table": "14",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g109",
     "name": "Jen Lundy",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "14"
+    "table": "14",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g110",
     "name": "Trent White",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "14"
+    "table": "14",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g111",
     "name": "Mohit Sharma",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "14"
+    "table": "14",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g112",
     "name": "Ridhi Sharma",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "14"
+    "table": "14",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g113",
     "name": "Anu Mehra",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "15"
+    "table": "15",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g114",
     "name": "Sanjeev Mehra",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "15"
+    "table": "15",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g115",
     "name": "Madhu Appala",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "15"
+    "table": "15",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g116",
     "name": "Sarma Appala",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "15"
+    "table": "15",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g117",
     "name": "Rajesh Jindal",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "15"
+    "table": "15",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g118",
     "name": "Reena Jindal",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "15"
+    "table": "15",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g119",
     "name": "Rasesh Kothari",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "15"
+    "table": "15",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g120",
     "name": "Reena Kotharii",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "15"
+    "table": "15",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g121",
     "name": "Rajesh Karnani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "15"
+    "table": "15",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g122",
     "name": "Sanjana Karnani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "15"
+    "table": "15",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g123",
     "name": "Amita Jotsinghani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "16"
+    "table": "16",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g124",
     "name": "Neeraj Jotsinghani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "16"
+    "table": "16",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g125",
     "name": "Kanthi Abreo",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "16"
+    "table": "16",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g126",
     "name": "Peter Abreo",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "16"
+    "table": "16",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g127",
     "name": "Meenal Singhal",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "16"
+    "table": "16",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g128",
     "name": "Parag Singhal",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "16"
+    "table": "16",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g129",
     "name": "Rajesh Madan",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "16"
+    "table": "16",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g130",
     "name": "Ritu Madan",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "16"
+    "table": "16",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g131",
     "name": "Veenu Puri",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "16"
+    "table": "16",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g132",
     "name": "Vishu Puri",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "16"
+    "table": "16",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g133",
     "name": "Bunty Mistry",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "17"
+    "table": "17",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g134",
     "name": "Mckenzie Mistry",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "17"
+    "table": "17",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g135",
     "name": "Divya Mital",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "17"
+    "table": "17",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g136",
     "name": "Rohan Mital",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "17"
+    "table": "17",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g137",
     "name": "Amanda Gambhir",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "17"
+    "table": "17",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g138",
     "name": "Ratik Gambhir",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "17"
+    "table": "17",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g139",
     "name": "Yash Somani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "17"
+    "table": "17",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g140",
     "name": "Ilesh Jain",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "17"
+    "table": "17",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g141",
     "name": "Megh Desai",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "17"
+    "table": "17",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g142",
     "name": "Niki Desai",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "17"
+    "table": "17",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g143",
     "name": "Dhruv Sahai",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "18"
+    "table": "18",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g144",
     "name": "Raghav Sahai",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "18"
+    "table": "18",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g145",
     "name": "Disha Jotsinghani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "18"
+    "table": "18",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g146",
     "name": "Shubham Mital",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "18"
+    "table": "18",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g147",
     "name": "Ishaan Jotsinghani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "18"
+    "table": "18",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g148",
     "name": "Ria Jotsinghani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "18"
+    "table": "18",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g149",
     "name": "Ishaan Somani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "18"
+    "table": "18",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g150",
     "name": "Esha Jain",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "18"
+    "table": "18",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g151",
     "name": "Sahil Tayade",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "18"
+    "table": "18",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g152",
     "name": "Sophie Tayade",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "18"
+    "table": "18",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g153",
     "name": "Amar Alnemer",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "19"
+    "table": "19",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g154",
     "name": "Joanne Alnemer",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "19"
+    "table": "19",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g155",
     "name": "Dr. Jaimie Patel",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "19"
+    "table": "19",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g156",
     "name": "Dr. Vaiibhav Patel",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "19"
+    "table": "19",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g157",
     "name": "Jordan Lukens",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "19"
+    "table": "19",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g158",
     "name": "Maria Lukens",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "19"
+    "table": "19",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g159",
     "name": "Keemia Rashidi",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "19"
+    "table": "19",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g160",
     "name": "Shawn Bhalla",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "19"
+    "table": "19",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g161",
     "name": "Emma Sepion",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "19"
+    "table": "19",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g162",
     "name": "Reece Partridge",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "19"
+    "table": "19",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g163",
     "name": "Taylor Renner",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "20"
+    "table": "20",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g164",
     "name": "Zachary Smotzer",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "20"
+    "table": "20",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g165",
     "name": "Ahmed Hussain",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "20"
+    "table": "20",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g166",
     "name": "Alejandro De La Cova",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "20"
+    "table": "20",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g167",
     "name": "Amanda Martinez",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "20"
+    "table": "20",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g168",
     "name": "Andrei Savu",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "20"
+    "table": "20",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g169",
     "name": "Bryan Clark",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "20"
+    "table": "20",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g170",
     "name": "Bryan Crane",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "20"
+    "table": "20",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g171",
     "name": "Dashaun Ragland",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "20"
+    "table": "20",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g172",
     "name": "Erik Pritschau",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "21"
+    "table": "21",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g173",
     "name": "Fidel Vazquez",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "21"
+    "table": "21",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g174",
     "name": "Ishan Rola",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "21"
+    "table": "21",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g175",
     "name": "Joshua Hollman",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "21"
+    "table": "21",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g176",
     "name": "Lucy Rose",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "21"
+    "table": "21",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g177",
     "name": "Michael Villalonga",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "21"
+    "table": "21",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g178",
     "name": "Mike Ross",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "21"
+    "table": "21",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g179",
     "name": "Nojan Bajestani",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "21"
+    "table": "21",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g180",
     "name": "Raveed Ahmed",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "21"
+    "table": "21",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g181",
     "name": "Alex Abreo",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "23"
+    "table": "23",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g182",
     "name": "Andres Berrios",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "23"
+    "table": "23",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g183",
     "name": "Antony Yang",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "23"
+    "table": "23",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g184",
     "name": "Anvitha Gogineni",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "23"
+    "table": "23",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g185",
     "name": "Ariyana Reza",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "23"
+    "table": "23",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g186",
     "name": "Ayush Mehra",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "23"
+    "table": "23",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g187",
     "name": "Ben Hallis",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "23"
+    "table": "23",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g188",
     "name": "Peyton Koscho",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "23"
+    "table": "23",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g189",
     "name": "Ria Narang",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "23"
+    "table": "23",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g190",
     "name": "Ryan Lang",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "23"
+    "table": "23",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g191",
     "name": "Braden Ferris",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "24"
+    "table": "24",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g192",
     "name": "Brett Murcko",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "24"
+    "table": "24",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g193",
     "name": "Jacob Fernandez",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "24"
+    "table": "24",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g194",
     "name": "Kaled Abusaleh",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "24"
+    "table": "24",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g195",
     "name": "Kavya Alagappan",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "24"
+    "table": "24",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g196",
     "name": "Lina Sanders",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "24"
+    "table": "24",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g197",
     "name": "Matthew Urban",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "24"
+    "table": "24",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g198",
     "name": "Ryan Remias",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "24"
+    "table": "24",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   },
   {
     "id": "g199",
     "name": "Shivani Dhekne",
+    "family": "",
     "side": "Groom Side",
     "event": "Reception",
-    "table": "24"
+    "table": "24",
+    "mealPreference": "Vegetarian",
+    "dietaryNotes": "",
+    "rsvp": "Accepted",
+    "checkedIn": false
   }
 ]
