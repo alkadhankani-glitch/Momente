@@ -114,11 +114,11 @@ export default function ImportWizard() {
       .from('events')
       .select('id')
       .eq('slug', 'raja-anjali')
-      .single()
+      .maybeSingle()
 
     if (eventError || !eventData) {
-      alert('Could not find Raja & Anjali event.')
-      return
+  alert(`Could not find event. Error: ${eventError?.message || 'No event returned'}`)
+  return
     }
 
     const rows = merged.map(g => ({
