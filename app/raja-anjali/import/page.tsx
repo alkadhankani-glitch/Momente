@@ -1,5 +1,5 @@
 'use client'
-import { supabase } from '../../../../lib/supabaseClient'
+import { createClient } from '@supabase/supabase-js'
 
 import {useMemo,useState} from 'react'
 import Link from 'next/link'
@@ -17,6 +17,10 @@ function parseCsv(text:string){
 }
 function normalize(r:any,side:string,i:number){return {id:`${side}-${i}`,name:r['guest name']||r['name']||`Guest ${i+1}`,family:r['family']||'',side:r['side']||side,mealPreference:r['meal preference']||'Vegetarian',dietaryNotes:r['dietary notes']||'',rsvp:r['rsvp']||'Accepted'}}
 export default function ImportWizard(){
+const supabase = createClient(
+  process.env.NEXT_PUBLIC_SUPABASE_URL!,
+  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+)
   const[groomRows,setGroomRows]=useState<any[]>([])
   const[brideRows,setBrideRows]=useState<any[]>([])
   const[tableRows,setTableRows]=useState<any[]>([])
